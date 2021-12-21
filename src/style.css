@@ -1,0 +1,45 @@
+h2,
+h3 {
+  margin: 0;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: lighter;
+}
+.card {
+  margin-top: 30px;
+  width: 600px;
+}
+
+.city-search {
+  margin-left: 10px;
+}
+
+.city-info {
+  margin-top: 16px;
+  margin-left: 20px;
+}
+
+.weather-info {
+  margin-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.button {
+  padding: 0;
+}
+.temperature-value {
+  font-size: 45px;
+}
+
+.extra-info {
+  list-style: none;
+  position: relative;
+  top: 12px;
+}
